@@ -27,3 +27,8 @@ Excel:
 
 ![excel dashbord](https://github.com/rohithkonkati/insurance-data-analysis/assets/123623982/52b1580c-b162-480c-a20f-9dbf7cc33751)
 
+power bi:
+![WhatsApp Image 2023-09-21 at 10 51 50 PM](https://github.com/rohithkonkati/insurance-data-analysis/assets/123623982/ba0344c3-dd40-469f-bf9b-bb0d7aaba3c9)
+
+Tableau :
+![WhatsApp Image 2023-09-29 at 12 51 22 PM](https://github.com/rohithkonkati/insurance-data-analysis/assets/123623982/a2572ce0-d58b-42ef-8e2e-f940d84ab3a3)
